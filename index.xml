@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VICCM</title>
+    <link>https://www.mamiferoscolombia.org/VICCM/</link>
+    <description>Recent content on VICCM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>En-us</language>
+    <copyright>Sociedad Colombiana de Mastozoología [(SCMas)](https://mamiferoscolombia.org/). Pagina Web por [Diego J. Lizcano](http://dlizcano.github.io/).</copyright>
+    <lastBuildDate>Sat, 17 Jan 2026 12:52:36 +0600</lastBuildDate><atom:link href="https://www.mamiferoscolombia.org/VICCM/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premios</title>
+      <link>https://www.mamiferoscolombia.org/VICCM/blog/premios/</link>
+      <pubDate>Sat, 17 Jan 2026 12:52:36 +0600</pubDate>
+      
+      <guid>https://www.mamiferoscolombia.org/VICCM/blog/premios/</guid>
+      <description>Premios VICCM ofrece un premio a la mejor presentacion oral y al mejor poster de un estudiante.</description>
+    </item>
+    
+    <item>
+      <title>Comités</title>
+      <link>https://www.mamiferoscolombia.org/VICCM/blog/comites/</link>
+      <pubDate>Fri, 16 Jan 2026 12:52:36 +0600</pubDate>
+      
+      <guid>https://www.mamiferoscolombia.org/VICCM/blog/comites/</guid>
+      <description>Comité organizador El Comité organizador (CO) es responsable de definir el desarrollo a medio y largo plazo del congreso y de garantizar que esta mantenga un alto nivel científico y organizativo.</description>
+    </item>
+    
+    <item>
+      <title>Historia y Objetivos</title>
+      <link>https://www.mamiferoscolombia.org/VICCM/blog/historia/</link>
+      <pubDate>Thu, 15 Jan 2026 12:52:36 +0600</pubDate>
+      
+      <guid>https://www.mamiferoscolombia.org/VICCM/blog/historia/</guid>
+      <description>El Congreso Colombiano de Mastozoología se celebra cada dos años y sus sedes se alternan de manera itinerante en distintas regiones de Colombia.</description>
+    </item>
+    
+    <item>
+      <title>Diego J. Lizcano</title>
+      <link>https://www.mamiferoscolombia.org/VICCM/author/diego-lizcano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mamiferoscolombia.org/VICCM/author/diego-lizcano/</guid>
+      <description>Diego es Biólogo, experto en ecología y conservación de biodiversidad, con experiencia en proyectos de monitoreo usando diversas técnicas y tecnologías aplicadas a la conservación.</description>
+    </item>
+    
+  </channel>
+</rss>
