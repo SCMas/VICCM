@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on VICCM</title>
+    <title>Blogs on Congreso Colombiano de Mastozoologia - VICCM</title>
     <link>https://www.mamiferoscolombia.org/VICCM/blog/</link>
-    <description>Recent content in Blogs on VICCM</description>
+    <description>Recent content in Blogs on Congreso Colombiano de Mastozoologia - VICCM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>En-us</language>
-    <copyright>Sociedad Colombiana de Mastozoología [(SCMas)](https://mamiferoscolombia.org/). Pagina Web por [Diego J. Lizcano](http://dlizcano.github.io/).</copyright>
+    <copyright>© Copyright 2026 Sociedad Colombiana de Mastozoología [(SCMas)](https://mamiferoscolombia.org/). Pagina Web [Diego Lizcano](http://dlizcano.github.io/), usando [R](https://cran.r-project.org/), el paquete [blogdown](https://pkgs.rstudio.com/blogdown/) y el tema [Meghna](https://github.com/themefisher/meghna-hugo).</copyright>
     <lastBuildDate>Sat, 17 Jan 2026 12:52:36 +0600</lastBuildDate><atom:link href="https://www.mamiferoscolombia.org/VICCM/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Premios</title>
