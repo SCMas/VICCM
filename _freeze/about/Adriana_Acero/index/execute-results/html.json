@@ -1,0 +1,15 @@
+{
+  "hash": "69499b6eca8f800be2bc91c925812c3a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Adriana C. Acero-Murcia\"\ninclude-after-body: _footer.html\n---\n\n\n\n### {{< fa circle-user >}} Bio \n\n:::{.bio-row}\n:::{.bio-column-right}\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/Adriana_Acero.jpg){width=275px style=\"display:block; margin-left:auto; margin-right:auto; clip-path: circle();\"}\n:::\n:::\n\n:::\n\n:::{.bio-column-left}\nAdriana es Licenciada en Biología de la Universidad Distrital Francisco José de Caldas en Bogotá, Tiene una maestría en ecología y evolución de la Universidade Federal de São Paulo y Ph.D. en Ecología y Conservación de la Universidade Federal de Mato Grosso do Sul en Brasil.  Sus interese de investigacion han estado alrederor de Primates y Murciélagos. \n\n\nEn el VICCM Adriana apoya el comité científico.\n:::\n:::\n\n:::{.column-body style=\"margin-top:-20px;\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"row\" style=\"display: flex;\">\n<div class=\"button-column\">\n<a href=\"https://orcid.org/0000-0002-3376-5099\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-orcid fa-xl\"></i>\n</button>\n</a>\n</div>\n<div class=\"button-column\">\n<a href=\"https://www.researchgate.net/profile/Adriana-Acero-Murcia\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-researchgate fa-xl\"></i>\n</button>\n</a>\n</div>\n<div class=\"button-column\">\n<a href=\"https://co.linkedin.com/in/adriana-acero-murcia-9290b9a9\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-linkedin fa-xl\"></i>\n</button>\n</a>\n</div>\n</div>\n```\n\n:::\n:::\n\n:::\n\n\n\n### {{< fa newspaper >}} Posts \n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
