@@ -22,9 +22,9 @@ freeze: true
 ![](images/Armadillo.png){style="width:73%;"}
 </a>
 
-# Mas detalles  
+# Cursos  
 
-Próximamente
+Mas Detalles Próximamente
 
 :::
 
@@ -42,7 +42,7 @@ Próximamente
 
 # Talleres
 
-Mas detalles próximamente 
+Mas Detalles Próximamente
 
 :::
 
@@ -53,14 +53,14 @@ Mas detalles próximamente
 
 
 <a href=" ">
-![](images/Puma.png){style="width:73%;"}
+![](images/Comadreja.png){style="width:73%;"}
 </a>
 
 
 
-# Cursos
+# Muy pronto les daremos más detalles
 
-Mas detalles próximamente 
+No dejes de visitarnos!
 
 
 :::

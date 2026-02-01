@@ -1,6 +1,6 @@
 ---
 title: "Luisa F. Martinez"
-include-after-body: _footer.html
+format: html 
 ---
 
 ```{r, include=FALSE}

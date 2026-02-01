@@ -1,6 +1,6 @@
 ---
 title: "Hugo Mantilla-Meluk"
-include-after-body: _footer.html
+format: html 
 ---
 
 ```{r, include=FALSE}

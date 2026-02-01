@@ -1,6 +1,6 @@
 ---
 title: "Diego J. Lizcano"
-include-after-body: _footer.html
+format: html 
 ---
 
 ```{r, include=FALSE}
@@ -21,7 +21,7 @@ knitr::include_graphics("images/Diego_Lizcano.jpg")
 :::
 
 :::{.bio-column-left}
-Diego es biólogo, con un fuerte interés en ecología y conservación. Su trabajo se centra en herramientas conceptuales, computacionales y estadísticas para alalizar grandes sets de datos que ayudan a comprender mejor los patrones de los mamíferos en la naturaleza.  
+Diego es biólogo, con un fuerte interés en ecología y conservación. Su trabajo se centra en el desarrollo y adaptación de herramientas conceptuales, computacionales y estadísticas para analizar grandes conjuntos de datos que ayudan a comprender mejor los patrones de distribución y abundancia de los mamíferos en la naturaleza. Diego es el editor tecnico de [**Mammalogy Notes**](https://mammalogynotes.org).
 
 En el VICCM Diego está encargado de la pagina web y el [OpenConf](https://www.mamiferoscolombia.org/openconf/openconf.php)
 :::

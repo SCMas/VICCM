@@ -1,6 +1,6 @@
 ---
 title: "Catalina Concha-Osbahr"
-include-after-body: _footer.html
+format: html 
 ---
 
 ```{r, include=FALSE}
@@ -54,3 +54,5 @@ create_button(
 
 ### {{< fa newspaper >}} Posts 
 
+[Invitación](https://www.mamiferoscolombia.org/VICCM/noticias/2026-02-01_invitacion/)<br>
+*El Comité Organizador del VICCM invita a presentar propuestas para la realización de simposios, talleres, mesas redondas, cursos y otras actividades académicas del VICCM.*

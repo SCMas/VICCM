@@ -1,6 +1,6 @@
 ---
 title: "Javier García-Villalba"
-include-after-body: _footer.html
+format: html 
 ---
 
 ```{r, include=FALSE}
