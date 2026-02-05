@@ -1,0 +1,50 @@
+---
+title: "Universidad de la Amazonia"
+subtitle: "Información sobre la sede del congreso"
+title-block-banner: "#E06E53"
+title-block-banner-color: body
+toc: false
+format: 
+  html: 
+    include-after-body: _footer.html
+freeze: true
+---
+
+<style>
+  d-title {
+    display: none;
+  }
+</style>
+
+:::{.column-page layout="[35,65]" style="margin-left: auto; margin-right: auto;"}
+
+<a href="https://www.youtube.com/watch?v=d9K8lsCGvT4">
+![Campus Florencia Porvenir](images/foto/Campus_porvenir.png){style="width:95%;margin-left: auto;margin-right: auto;"}
+</a>
+
+
+# Campus Florencia - Porvenir
+
+Cuenta con espacios multifuncionales, entre ellos el Auditorio Monseñor Ángel Cuniberti, con capacidad para 500 personas, escenario de congresos nacionales previos como el IV Congreso Colombiano de Restauración Ecológica y el X Congreso Colombiano de Botánica. Actualmente, el auditorio se encuentra en proceso de modernización y dotación tecnológica, garantizando condiciones óptimas para el desarrollo del evento. 
+
+:::
+
+***
+
+:::{.column-page layout="[35,65]" style="margin-right: auto; margin-left: auto;"}
+
+<a href="https://www.youtube.com/watch?v=Ay0zbp6hXjA&t=90s">
+![Centro de Investigaciones Amazónicas Macagual – César Augusto Estrada González – Universidad de la Amazonia](images/foto/Campus_macagual.png){style="width:95%;margin-right: auto;margin-left: auto;"}
+</a>
+
+
+# Centro de Investigaciones Amazónicas Macagual – César Augusto Estrada González
+
+
+Ubicado en el kilómetro 20 vía Morelia, es el espacio destinado para la investigación en Ciencias Biológicas y Ciencias Agrícolas. Este centro de 371 hectáreas se encuentra rodeado por un entorno natural que fomenta la investigación de campo, especialmente en temas de flora y fauna. Aquí se llevan a cabo estudios enfocados en la sostenibilidad, la conservación y el manejo ambiental de los agroecosistemas y sistemas productivos de la región. 
+
+[Ver ubicación](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19630.64720078128!2d-75.681113!3d1.5011813!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e244a59e462cc33%3A0xcdb4186be0d76ffd!2sMacagual%20UNIAMAZONIA!5e1!3m2!1ses!2sco!4v1770321976558!5m2!1ses!2sco)
+
+:::
+
+

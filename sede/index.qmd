@@ -33,7 +33,7 @@ La ciudad ofrece una amplia variedad de restaurantes y sitios de esparcimiento n
 
 :::{.column-page layout="[35,65]" style="margin-right: auto; margin-left: auto;"}
 
-<a href="https://www.uniamazonia.edu.co/">
+<a href="universidad/index.html">
 ![Florencia en el portal de Colombia Travel](images/foto/foto_uniamazonia.jpg){style="width:95%;margin-right: auto;margin-left: auto;"}
 </a>
 

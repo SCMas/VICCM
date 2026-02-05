@@ -73,7 +73,7 @@ tags$div(class = "row",# Create a row for 3 team-member cards
          
 create_team_card(
   person_page = "Javier_Garcia/index.html",
-  img_src = "images/Javier_Garcia.png",
+  img_src = "images/Javier_Garcia.jpg",
   name = "Javier García-Villalba",
   text = "Organizador"
 ),
