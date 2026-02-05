@@ -1,6 +1,6 @@
 ---
-title: "Fototrampeo"
-author: "Diego Lizcano"
+title: "otro simposio"
+author: "Luisa"
 date: "2026-11-02"
 title-block-banner: "#C3EDEF" 
 title-block-banner-color: "#212121"
@@ -12,9 +12,9 @@ categories:
   - Conservación 
   - Método 
 params:
-  authors: "Díaz-Pulido, Angelica; Lizcano, Diego"
+  authors: "fulanor"
   year: 2026
-  title: "VI Simposio de Fototrampeo"
+  title: "VI Simposio de lo que sea."
 #  publication: "Ecological Restoration"
 #  doi: https://doi.org/10.1111/rec.14375
 #  image_url: https://images.ala.org.au/image/details?imageId=9f245984-b05c-4776-a9a7-099a296cbf6b

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.mamiferoscolombia.org/VICCM/sede/index.html</loc>
+    <lastmod>2026-02-03T08:13:09.524Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/simposios/index.html</loc>
     <lastmod>2026-02-01T15:05:15.381Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/sede/index.html</loc>
-    <lastmod>2026-01-29T17:10:59.567Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/index.html</loc>
+    <lastmod>2026-01-29T06:00:29.535Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-02-01_invitacion/index.html</loc>
-    <lastmod>2026-02-01T15:18:50.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-01-25_codigo_de_conducta/index.html</loc>
-    <lastmod>2026-01-31T13:33:46.712Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-01-26_premios/index.html</loc>
+    <lastmod>2026-01-31T13:34:31.174Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/cursos/index.html</loc>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/about/Adriana_Acero/index.html</loc>
-    <lastmod>2026-02-01T14:11:43.096Z</lastmod>
+    <lastmod>2026-02-03T08:09:38.383Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/about/Buyan_Amanda/index.html</loc>
@@ -81,19 +81,15 @@
     <lastmod>2026-01-30T01:43:36.974Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/index.html</loc>
-    <lastmod>2026-01-31T14:05:39.856Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-01-25_codigo_de_conducta/index.html</loc>
+    <lastmod>2026-01-31T13:33:46.712Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-01-26_premios/index.html</loc>
-    <lastmod>2026-01-31T13:34:31.174Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/index.html</loc>
-    <lastmod>2026-01-29T06:00:29.535Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-02-01_invitacion/index.html</loc>
+    <lastmod>2026-02-01T15:18:50.451Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/simposios/fototrampeo/index.html</loc>
-    <lastmod>2026-01-30T17:42:56.388Z</lastmod>
+    <lastmod>2026-02-02T21:02:55.120Z</lastmod>
   </url>
 </urlset>
