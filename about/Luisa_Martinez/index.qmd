@@ -21,7 +21,7 @@ knitr::include_graphics("images/Luisa_Martinez.jpg")
 :::
 
 :::{.bio-column-left}
-Luisa es Biologa de la universidad de la Amazonia, joven investigadora de la misma universidad y especialista en fototrampeo de mamíferos.
+Estudiante de Ingeniería Agroecológica de la Universidad de la Amazonia. Joven Investigador -MINCIENCIAS 2023-2024. Integrante activo de la Sociedad Colombiana de Mastozoología. Coordinadora del Semillero de Investigación en Biodiversidad Amazónica y Agroecosistemas de la Universidad de la Amazonia.
 
 En el VICCM Luisa está encargada de los elementos de divulgación y logistica.
 :::
