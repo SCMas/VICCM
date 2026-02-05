@@ -16,12 +16,12 @@ source(here("R", "functions.R"))
 
 ```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
 #| echo: false
-knitr::include_graphics("images/Javier_Garcia.png")
+knitr::include_graphics("images/Javier_Garcia.jpg")
 ```
 :::
 
 :::{.bio-column-left}
-Javier es biólogo de la Universidad Nacional de Bogotá, su experiencia se ha concentrado en la Amazonía colombiana, en proyectos de educación ambiental, zoología, ecología y biología de la conservación. Sus inventarios de mastofauna, su conocimiento taxonómico de la fauna silvestre amazónica y el énfasis especial en la conservación de primates, lo han convertido en uno de los más comprometidos en el cuidado del Caquetá y sus ecosistemas.
+Javier es biólogo de la Universidad Nacional de Colombia. Especialista en Gerencia del Talento Humano, Universidad de la Amazonia. Miembro fundador de la Asociación Colombiana de Zoología, la Sociedad Colombiana de Mastozoología y la Asociación Primatológica Colombiana de la cual fue Vicepresidente. Su experiencia científica se encuentra alrededor del estudio de los mamíferos medianos y grandes de la amazonia colombiana. Hizo parte del comité organizador del I Simposio Nacional de Jóvenes Investigadores de la Región Centro-Sur, realizado en la ciudad de Florencia-Caquetá, 2023
 
 En el VICCM Javier está encargado de la organizacion general del congreso.
 :::
