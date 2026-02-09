@@ -19,7 +19,57 @@ library(htmltools)
 source("../R/functions.R")
 ```
 
+# Comité Organizador
 
+Es responsable de definir el desarrollo a medio y largo plazo de la serie de conferencias y de garantizar que esta mantenga un alto nivel organizativo. El congreso suele tener una duración de una semana (de lunes a viernes) en noviembre 2026.
+
+*Haga clic en las fotos para ver sus detalles y contribuciones.*
+```{r}
+#| echo: false
+tags$div(class = "row",# Create a row for 3 team-member cards
+         
+create_team_card(
+  person_page = "Javier_Garcia/index.html",
+  img_src = "images/Javier_Garcia.jpg",
+  name = "Javier García-Villalba",
+  text = "Presidente"
+),
+
+create_team_card(
+  person_page = "Catalina_Concha/index.html",
+  img_src = "images/Catalina_Concha.jpg",
+  name = "Catalina Concha-Osbahr",
+  text = "Presidenta SCMas"
+),
+create_team_card(
+  person_page = "Cesar_Rojano/index.html",
+  img_src = "images/Cesar_Rojano.jpg",
+  name = "Cesar Rojano-Bolaños",
+  text = "Delegado Junta SCMas"
+)
+)
+tags$div(class = "row", # Create a row for 3 team-member cards
+         
+# create_team_card(
+#   person_page = "Kellie_Dax/index.html",
+#   img_src = "../images/people/dax.jpg",
+#   name = "Dax Kellie",
+#   text = "Data Analyst"
+# ),
+# create_team_card(
+#   person_page = "Seers_Juliet/index.html",
+#   img_src = "../images/people/juliet.jpg",
+#   name = "Juliet Seers",
+#   text = "Training & Outreach Coordinator"
+# ), 
+create_team_card(
+  person_page = "Diego_Lizcano/index.html",
+  img_src = "images/Diego_Lizcano.jpg",
+  name = "Diego J. Lizcano",
+  text = "Pagina web y OpenConf"
+)
+)
+```
 
 
 # Comité Científico 
@@ -62,7 +112,9 @@ tags$div(class = "row", # Create a row for 3 team-member cards
 ```
 
 
-# Comité Organizador
+
+
+# Comité Logístico
 
 Es responsable de definir el desarrollo a medio y largo plazo de la serie de conferencias y de garantizar que esta mantenga un alto nivel organizativo. El congreso suele tener una duración de una semana (de lunes a viernes) en noviembre 2026.
 
@@ -72,24 +124,11 @@ Es responsable de definir el desarrollo a medio y largo plazo de la serie de con
 tags$div(class = "row",# Create a row for 3 team-member cards
          
 create_team_card(
-  person_page = "Javier_Garcia/index.html",
-  img_src = "images/Javier_Garcia.jpg",
-  name = "Javier García-Villalba",
-  text = "Organizador"
-),
-
-create_team_card(
   person_page = "Luisa_Martinez/index.html",
   img_src = "images/Luisa_Martinez.jpg",
   name = "Luisa F. Martínez",
   text = "Comunicaciones y logística"
 ),
-create_team_card(
-  person_page = "Catalina_Concha/index.html",
-  img_src = "images/Catalina_Concha.jpg",
-  name = "Catalina Concha-Osbahr",
-  text = "Presidenta SCMas"
-)
 )
 tags$div(class = "row", # Create a row for 3 team-member cards
          
@@ -105,12 +144,85 @@ tags$div(class = "row", # Create a row for 3 team-member cards
 #   name = "Juliet Seers",
 #   text = "Training & Outreach Coordinator"
 # ), 
-create_team_card(
-  person_page = "Diego_Lizcano/index.html",
-  img_src = "images/Diego_Lizcano.jpg",
-  name = "Diego J. Lizcano",
-  text = "Pagina web y OpenConf"
-)
 )
 ```
 
+# Comité de Comunicaciones
+
+Es responsable de definir el desarrollo a medio y largo plazo de la serie de conferencias y de garantizar que esta mantenga un alto nivel organizativo. El congreso suele tener una duración de una semana (de lunes a viernes) en noviembre 2026.
+
+*Haga clic en las fotos para ver sus detalles y contribuciones.*
+```{r}
+#| echo: false
+tags$div(class = "row",# Create a row for 3 team-member cards
+         
+create_team_card(
+  person_page = "Erick_Cardona/index.html",
+  img_src = "images/Erick_Cardona.jpg",
+  name = "Erick D. Cardona",
+  text = "Comunicaciones"
+),
+create_team_card(
+  person_page = "Luisa_Martinez/index.html",
+  img_src = "images/Luisa_Martinez.jpg",
+  name = "Alguien de la Scmas",
+  text = "Comunicaciones"
+),
+)
+
+tags$div(class = "row", # Create a row for 3 team-member cards
+         
+# create_team_card(
+#   person_page = "Kellie_Dax/index.html",
+#   img_src = "../images/people/dax.jpg",
+#   name = "Dax Kellie",
+#   text = "Data Analyst"
+# ),
+# create_team_card(
+#   person_page = "Seers_Juliet/index.html",
+#   img_src = "../images/people/juliet.jpg",
+#   name = "Juliet Seers",
+#   text = "Training & Outreach Coordinator"
+# ), 
+)
+```
+
+# Comité Financiero
+
+Es responsable de definir el desarrollo a medio y largo plazo de la serie de conferencias y de garantizar que esta mantenga un alto nivel organizativo. El congreso suele tener una duración de una semana (de lunes a viernes) en noviembre 2026.
+
+*Haga clic en las fotos para ver sus detalles y contribuciones.*
+```{r}
+#| echo: false
+tags$div(class = "row",# Create a row for 3 team-member cards
+         
+create_team_card(
+  person_page = "Luisa_Martinez/index.html",
+  img_src = "images/Mauricio_Vela.jpg",
+  name = "Mauricio Vela",
+  text = "Tesorero"
+),
+create_team_card(
+  person_page = "Luisa_Martinez/index.html",
+  img_src = "images/Luisa_Martinez.jpg",
+  name = "Alguien de la Scmas",
+  text = "Financiero"
+),
+)
+
+tags$div(class = "row", # Create a row for 3 team-member cards
+         
+# create_team_card(
+#   person_page = "Kellie_Dax/index.html",
+#   img_src = "../images/people/dax.jpg",
+#   name = "Dax Kellie",
+#   text = "Data Analyst"
+# ),
+# create_team_card(
+#   person_page = "Seers_Juliet/index.html",
+#   img_src = "../images/people/juliet.jpg",
+#   name = "Juliet Seers",
+#   text = "Training & Outreach Coordinator"
+# ), 
+)
+```

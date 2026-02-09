@@ -1,0 +1,55 @@
+---
+title: "Cesar Rojano-Bolaños"
+format: html 
+---
+
+```{r, include=FALSE}
+library(htmltools)
+library(here)
+source(here("R", "functions.R"))
+```
+
+### {{< fa circle-user >}} Bio 
+
+:::{.bio-row}
+:::{.bio-column-right}
+
+```{r out.width='275px', out.extra='style="display:block; margin-left:auto; margin-right:auto; clip-path: circle();"'}
+#| echo: false
+knitr::include_graphics("images/Cesar_Rojano.jpg")
+```
+:::
+
+:::{.bio-column-left}
+Médico veterinario zootecnista de la Universidad de Córdoba, Magister en Ciencias Veterinarias del Trópico. Director Científico de Cunaguaro, Biodiversidad y Cultura y coordinador del proyecto de conservación de hormigueros de Colombia. Investigador con experiencia en conservación de vida silvestre en Colombia. Presidente del Comité Organizador del V Congreso Colombiano de Mastozoología, desarrollado en Yopal, Casanare..
+
+En el VICCM Cesar es el enlace entre la Junta Directiva de la SCMas y el comité organizador del VICCM.
+:::
+:::
+
+:::{.column-body style="margin-top:-20px;"}
+```{r}
+#| echo: false
+
+tags$div(class = "row", style = "display: flex;",
+         
+create_button(
+  icon = "fab fa-facebook fa-xl",
+  url = "https://www.facebook.com/luisa.martineztkd/photos"
+),
+# create_button(
+#   icon = "fab fa-linkedin fa-xl",
+#   url = "https://www.linkedin.com/in/hugo-mantilla-meluk-46b405223/?originalSubdomain=co"
+# ),
+create_button(
+  icon = "fab fa-instagram fa-xl",
+  url = "https://www.instagram.com/Luisamartineztkd"
+)
+)
+```
+:::
+
+
+
+### {{< fa newspaper >}} Posts 
+

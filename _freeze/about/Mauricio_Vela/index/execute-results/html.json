@@ -1,0 +1,15 @@
+{
+  "hash": "1f8ddb6a2b5f24bf21c8545ab3f018bf",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Mauricio Vela\"\nformat: html \n---\n\n\n\n### {{< fa circle-user >}} Bio \n\n:::{.bio-row}\n:::{.bio-column-right}\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](images/Mauricio_Vela.jpg){width=275px style=\"display:block; margin-left:auto; margin-right:auto; clip-path: circle();\"}\n:::\n:::\n\n:::\n\n:::{.bio-column-left}\nEstudiante de Ingeniería Agroecológica de la Universidad de la Amazonia. Joven Investigador -MINCIENCIAS 2023-2024. Integrante activo de la Sociedad Colombiana de Mastozoología. Coordinadora del Semillero de Investigación en Biodiversidad Amazónica y Agroecosistemas de la Universidad de la Amazonia.\n\nEn el VICCM Mauricio está encargado de los aspectos financieros.\n:::\n:::\n\n:::{.column-body style=\"margin-top:-20px;\"}\n\n::: {.cell}\n::: {.cell-output-display}\n\n```{=html}\n<div class=\"row\" style=\"display: flex;\">\n<div class=\"button-column\">\n<a href=\"https://www.facebook.com/luisa.martineztkd/photos\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-facebook fa-xl\"></i>\n</button>\n</a>\n</div>\n<div class=\"button-column\">\n<a href=\"https://www.instagram.com/Luisamartineztkd\" style=\"border-bottom: none\">\n<button class=\"button-2\">\n<i class=\"fab fa-instagram fa-xl\"></i>\n</button>\n</a>\n</div>\n</div>\n```\n\n:::\n:::\n\n:::\n\n\n\n### {{< fa newspaper >}} Posts \n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
