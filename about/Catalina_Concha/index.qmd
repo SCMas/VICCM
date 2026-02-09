@@ -21,7 +21,7 @@ knitr::include_graphics("images/Catalina_Concha.jpg")
 :::
 
 :::{.bio-column-left}
-Catalina es ecologa de la Universidad Javeriana de Bogotá. Es CEO en Arasarí Conservación e Investigación S.A.S. y es la presidenta de la Sociedad Colombiana de Mastozoología. 
+Catalina es ecóloga de la Pontificia Universidad Javeriana (Bogotá), CEO de Arasarí Conservación e Investigación S.A.S. y presidenta de la Sociedad Colombiana de Mastozoología. Cuenta con experiencia en investigación mastozoológica, con énfasis en guaguas, puercoespines y tigrillos. Posee una sólida trayectoria en la organización y coordinación de eventos científicos de alcance nacional, participando en comités organizadores, académicos y logísticos de diversas ediciones del Congreso Colombiano de Mastozoología y del Congreso Colombiano de Ecología. Su trabajo integra gestión académica, articulación institucional y divulgación científica en ecología y mastozoología en Colombia.
 
 En el VICCM Catalina dirije el comité organizador.
 :::

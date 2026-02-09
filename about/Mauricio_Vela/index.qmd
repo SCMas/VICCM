@@ -21,7 +21,7 @@ knitr::include_graphics("images/Mauricio_Vela.jpg")
 :::
 
 :::{.bio-column-left}
-Estudiante de Ingeniería Agroecológica de la Universidad de la Amazonia. Joven Investigador -MINCIENCIAS 2023-2024. Integrante activo de la Sociedad Colombiana de Mastozoología. Coordinadora del Semillero de Investigación en Biodiversidad Amazónica y Agroecosistemas de la Universidad de la Amazonia.
+Biólogo de la Pontificia Universidad Javeriana de Bogotá, Maestro en Ciencias biológicas de la misma universidad y doctor en Manejo y conservación de fauna silvestre en la Universidad de Arizona (Arizona-Estados Unidos de América). Mauricio ha estudiado las dinámicas de las poblaciones de mamíferos en matrices de paisaje heterogéneas con grupos bioindicadores. Además de lo anterior, su trabajo se ha centrado en el estudio de la ecología espacial de grandes carnívoros neotropicales y sus interacciones con comunidades humanas en diferentes regiones de Colombia y el neotrópico. Mauricio ha estado vinculado a la SCMas desde 2009, y participó como organizador del II Congreso Colombiano de Mastozoología y III Congreso Latinoamericano de Mastozoología realizados en el año 2018 en Bogotá. Mauricio ha sido parte del cuerpo editorial de la Revista Mammalogy Notes desde su creación.
 
 En el VICCM Mauricio está encargado de los aspectos financieros.
 :::

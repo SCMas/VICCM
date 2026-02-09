@@ -1,0 +1,15 @@
+{
+  "hash": "b120d7c0c8b78e509e394de1d8f4096a",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Enviar Propuesta Simposio\"\ndescription: |\n  Llene su formulario para enviar propuestas de simposios, talleres, mesas redondas, cursos y otras actividades académicas del VICCM.\nauthor:\n  - name: \"Catalina Concha-Osbahr\"\n  - name: \"Javier García-Villalba\"\ndate: \"2026-02-09\"\n\n\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - Fechas\n  - Simposios\n  - Cursos\n  - Talleres \n  - Eventos\nimage: registro-en-linea.png\nfreeze: true\neditor_options: \n  chunk_output_type: console\n---\n\n\n\n<!-- remove metadata section -->\n\n```{=html}\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n```\n\n<!-- Author card -->\n\n::::::: author-card\n::: author-card-text\n#### Author\n\n\n[Catalina Concha-Osbahr](https://mamiferoscolombia.org/VICCM/about/Catalina_Concha/index.html)\n\n[Javier García-Villalba](https://mamiferoscolombia.org/VICCM/about/Javier_Garcia/index.html)\n\n\n#### Date\n\n09 Febrero 2026\n:::\n\n::::: {.row-b layout-ncol=\"3\" style=\"margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: auto;\"}\n::: {.author-card-image style=\"width: auto; height: 120px; margin-right: auto !important;\"}\n<img src=\"images/Catalina_Concha.jpg\" style=\"object-fit: cover; border-radius: 50% !important; width: 200px;\"/></img>\n\n<img src=\"images/Javier_Garcia.jpg\" style=\"object-fit: cover; border-radius: 50% !important; width: 200px;\"/></img>\n:::\n\n<!-- ::: {.author-card-image style=\"width: auto; height: 120px; margin-right: auto;\"} -->\n<!-- <img src=\"https://raw.githubusercontent.com/AtlasOfLivingAustralia/ala-labs/main/images/people/dax.jpg\" style=\"object-fit: cover; border-radius: 50% !important; width: 140px;\"/></img> -->\n<!-- ::: -->\n:::::\n:::::::\n\n<!------------------------ Post starts here ------------------------>\n\n:::{.callout-tip}\n\n## VICCM 2026 - Invitación \n\n:::\n\n\n![](images/registro-en-linea.png)\n\n## [Envíe su propuesta acá](https://forms.gle/SnDdYQBN8E3tJHaJ6){target=\"_blank\"}\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

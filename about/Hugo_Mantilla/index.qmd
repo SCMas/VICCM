@@ -21,7 +21,7 @@ knitr::include_graphics("images/Hugo_Mantilla.jpg")
 :::
 
 :::{.bio-column-left}
-Hugo es Profesor investigador de la Universidad del Quindío, y curador de su Colección de Mamíferos. Coordinador Centro de estudios de Alta Montaña. Es Biólogo de la Universidad Nacional de Colombia y se graduó con honores del programa doctoral en Sistemática y Evolución de la Universidad Tecnológica de Texas. Es miembro de la Academia Colombiana de Ciencias Exactas Físicas y Naturales. Fue fundador de la Sociedad Colombiana de Mastozoología.
+Hugo es biólogo de la Universidad Nacional de Colombia y doctor en Sistemática y Evolución por la Universidad Tecnológica de Texas, donde se graduó con honores. Es profesor investigador de la Universidad del Quindío, curador de su Colección de Mamíferos y coordinador del Centro de Estudios de Alta Montaña. Es miembro de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales y miembro fundador de la Sociedad Colombiana de Mastozoología. Su investigación se centra en la evolución de primates y murciélagos, y cuenta con amplia experiencia en la coordinación y dirección de simposios científicos nacionales e internacionales
 
 En el VICCM Hugo está encargado del comité científico y los elementos de divulgación se han abordado desde lo técnico.
 :::

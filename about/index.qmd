@@ -161,14 +161,22 @@ create_team_card(
   img_src = "images/Erick_Cardona.jpg",
   name = "Erick D. Cardona",
   text = "Comunicaciones"
-),
-create_team_card(
-  person_page = "Luisa_Martinez/index.html",
-  img_src = "images/Luisa_Martinez.jpg",
-  name = "Alguien de la Scmas",
-  text = "Comunicaciones"
-),
 )
+)
+```
+
+
+```{r}
+# create_team_card(
+#   person_page = "Luisa_Martinez/index.html",
+#   img_src = "images/Luisa_Martinez.jpg",
+#   name = "Miembro Scmas",
+#   text = "Comunicaciones"
+# ),
+```
+
+
+```{r}
 
 tags$div(class = "row", # Create a row for 3 team-member cards
          
@@ -195,19 +203,19 @@ Es responsable de definir el desarrollo a medio y largo plazo de la serie de con
 ```{r}
 #| echo: false
 tags$div(class = "row",# Create a row for 3 team-member cards
-         
+     
+# create_team_card(
+#   person_page = "Carlos_Benavidez/index.html",
+#   img_src = "images/Luisa_Martinez.jpg",
+#   name = "Carlos Benavidez",
+#   text = "Contador"
+# ),             
 create_team_card(
-  person_page = "Luisa_Martinez/index.html",
+  person_page = "Mauricio_Vela/index.html",
   img_src = "images/Mauricio_Vela.jpg",
   name = "Mauricio Vela",
   text = "Tesorero"
-),
-create_team_card(
-  person_page = "Luisa_Martinez/index.html",
-  img_src = "images/Luisa_Martinez.jpg",
-  name = "Alguien de la Scmas",
-  text = "Financiero"
-),
+)
 )
 
 tags$div(class = "row", # Create a row for 3 team-member cards

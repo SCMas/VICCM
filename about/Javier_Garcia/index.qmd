@@ -21,7 +21,7 @@ knitr::include_graphics("images/Javier_Garcia.jpg")
 :::
 
 :::{.bio-column-left}
-Javier es biólogo de la Universidad Nacional de Colombia. Especialista en Gerencia del Talento Humano, Universidad de la Amazonia. Miembro fundador de la Asociación Colombiana de Zoología, la Sociedad Colombiana de Mastozoología y la Asociación Primatológica Colombiana de la cual fue Vicepresidente. Su experiencia científica se encuentra alrededor del estudio de los mamíferos medianos y grandes de la amazonia colombiana. Hizo parte del comité organizador del I Simposio Nacional de Jóvenes Investigadores de la Región Centro-Sur, realizado en la ciudad de Florencia-Caquetá, 2023
+Javier es biólogo de la Universidad Nacional de Colombia, su experiencia se ha concentrado en la Amazonía colombiana, particularmente en proyectos de educación ambiental, zoología, ecología y biología de la conservación. Ha desarrollado inventarios de mastofauna y cuenta con un sólido conocimiento taxonómico de la fauna silvestre amazónica, con énfasis en la conservación de primates y el estudio de mamíferos medianos y grandes. Es especialista en Gerencia del Talento Humano de la Universidad de la Amazonia y miembro fundador de la Asociación Colombiana de Zoología, la Sociedad Colombiana de Mastozoología y la Asociación Primatológica Colombiana, de la cual fue vicepresidente. Ha participado en la organización de eventos académicos, entre ellos el I Simposio Nacional de Jóvenes Investigadores de la Región Centro-Sur (Florencia, Caquetá, 2023).
 
 En el VICCM Javier está encargado de la organizacion general del congreso.
 :::

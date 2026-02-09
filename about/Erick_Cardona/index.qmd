@@ -21,7 +21,7 @@ knitr::include_graphics("images/Erick_Cardona.jpg")
 :::
 
 :::{.bio-column-left}
-Estudiante de Biología, Universidad de la Amazonia. Integrante del Semillero de Investigación en Biodiversidad Amazónica y Agroecosistemas de la Universidad de la Amazonia. Cuenta con experiencia en el desarrollo de piezas audiovisuales, cortometrajes, reels, teaser y demás elementos para la difusión de información a través de páginas web y redes sociales (ver).
+Estudiante de Biología de la Universidad de la Amazonia. Integrante del Semillero de Investigación en Biodiversidad Amazónica y Agroecosistemas (SIBIAMA) de la Universidad de la Amazonia. Cuenta con experiencia en el desarrollo de piezas audiovisuales, cortometrajes, reels, teaser y demás elementos para la difusión de información a través de páginas web y redes sociales (ver).
 
 En el VICCM Erick está encargado de los elementos de divulgación.
 :::
