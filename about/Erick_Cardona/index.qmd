@@ -21,7 +21,7 @@ knitr::include_graphics("images/Erick_Cardona.jpg")
 :::
 
 :::{.bio-column-left}
-Estudiante de Biología de la Universidad de la Amazonia. Integrante del Semillero de Investigación en Biodiversidad Amazónica y Agroecosistemas (SIBIAMA) de la Universidad de la Amazonia. Cuenta con experiencia en el desarrollo de piezas audiovisuales, cortometrajes, reels, teaser y demás elementos para la difusión de información a través de páginas web y redes sociales (ver).
+Estudiante de Biología de la Universidad de la Amazonia. Integrante del Semillero de Investigación en Biodiversidad Amazónica y Agroecosistemas (SIBIAMA) de la Universidad de la Amazonia. Cuenta con experiencia en el desarrollo de piezas audiovisuales, cortometrajes, reels, teaser y demás elementos para la difusión de información a través de páginas web y redes sociales [ver](https://web.facebook.com/reel/558964899340553){target="_blank"}.
 
 En el VICCM Erick está encargado de los elementos de divulgación.
 :::
@@ -35,7 +35,7 @@ tags$div(class = "row", style = "display: flex;",
          
 create_button(
   icon = "fab fa-facebook fa-xl",
-  url = "https://www.facebook.com/luisa.martineztkd/photos"
+  url = "https://www.facebook.com/erick.cardona.540667"
 ),
 # create_button(
 #   icon = "fab fa-linkedin fa-xl",
@@ -43,7 +43,7 @@ create_button(
 # ),
 create_button(
   icon = "fab fa-instagram fa-xl",
-  url = "https://www.instagram.com/Luisamartineztkd"
+  url = "https://www.instagram.com/erickdacar/"
 )
 )
 ```

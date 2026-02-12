@@ -1,40 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.mamiferoscolombia.org/VICCM/about/index.html</loc>
+    <lastmod>2026-02-11T22:23:57.541Z</lastmod>
+  </url>
+  <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/simposios/index.html</loc>
     <lastmod>2026-02-02T20:44:05.182Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/sede/universidad/index.html</loc>
-    <lastmod>2026-02-09T15:23:46.799Z</lastmod>
+    <lastmod>2026-02-11T21:47:39.430Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/noticias/index.html</loc>
     <lastmod>2026-02-02T20:44:05.153Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-01-26_premios/index.html</loc>
-    <lastmod>2026-02-02T20:44:05.103Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-02-01_segunda_circular/index.html</loc>
+    <lastmod>2026-02-11T20:32:01.123Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/index.html</loc>
-    <lastmod>2026-02-02T20:44:05.048Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-01-25_codigo_de_conducta/index.html</loc>
+    <lastmod>2026-02-02T20:44:05.054Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/contacto/index.html</loc>
     <lastmod>2026-02-02T20:44:04.683Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/about/index.html</loc>
-    <lastmod>2026-02-09T16:13:31.039Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/about/Mauricio_Vela/index.html</loc>
+    <lastmod>2026-02-11T20:25:13.564Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/about/Javier_Garcia/index.html</loc>
-    <lastmod>2026-02-09T14:22:04.555Z</lastmod>
+    <lastmod>2026-02-11T19:30:55.971Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/about/Felipe_Suarez/index.html</loc>
     <lastmod>2026-02-08T16:40:58.175Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mamiferoscolombia.org/VICCM/about/Diego_Lizcano/index.html</loc>
+    <lastmod>2026-02-02T20:44:04.599Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/about/Catalina_Concha/index.html</loc>
@@ -45,8 +53,16 @@
     <lastmod>2026-02-09T14:22:01.724Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/about/Diego_Lizcano/index.html</loc>
-    <lastmod>2026-02-02T20:44:04.599Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/about/Carlos_Benavidez/index.html</loc>
+    <lastmod>2026-02-09T14:30:17.289Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mamiferoscolombia.org/VICCM/about/Cesar_Rojano/index.html</loc>
+    <lastmod>2026-02-11T19:30:11.432Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mamiferoscolombia.org/VICCM/about/Erick_Cardona/index.html</loc>
+    <lastmod>2026-02-11T20:20:29.169Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/about/Hugo_Mantilla/index.html</loc>
@@ -65,12 +81,12 @@
     <lastmod>2026-02-02T20:44:04.698Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-01-25_codigo_de_conducta/index.html</loc>
-    <lastmod>2026-02-02T20:44:05.054Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-01-26_premios/index.html</loc>
+    <lastmod>2026-02-02T20:44:05.103Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-02-01_invitacion/index.html</loc>
-    <lastmod>2026-02-09T15:35:53.742Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-02-09_Formulario/index.html</loc>
+    <lastmod>2026-02-11T21:02:18.365Z</lastmod>
   </url>
   <url>
     <loc>https://www.mamiferoscolombia.org/VICCM/sede/index.html</loc>
@@ -81,23 +97,7 @@
     <lastmod>2026-02-05T19:23:56.029Z</lastmod>
   </url>
   <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/about/Erick_Cardona/index.html</loc>
-    <lastmod>2026-02-09T00:28:19.583Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/about/Cesar_Rojano/index.html</loc>
-    <lastmod>2026-02-09T00:12:21.775Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/about/Mauricio_Vela/index.html</loc>
-    <lastmod>2026-02-09T00:24:56.661Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/about/Carlos_Benavidez/index.html</loc>
-    <lastmod>2026-02-09T14:30:17.289Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mamiferoscolombia.org/VICCM/noticias/2026-02-09_Formulario/index.html</loc>
-    <lastmod>2026-02-09T16:01:36.391Z</lastmod>
+    <loc>https://www.mamiferoscolombia.org/VICCM/index.html</loc>
+    <lastmod>2026-02-02T20:44:05.048Z</lastmod>
   </url>
 </urlset>

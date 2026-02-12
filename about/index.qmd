@@ -116,7 +116,7 @@ tags$div(class = "row", # Create a row for 3 team-member cards
 
 # Comité Logístico
 
-Es responsable de definir el desarrollo a medio y largo plazo de la serie de conferencias y de garantizar que esta mantenga un alto nivel organizativo. El congreso suele tener una duración de una semana (de lunes a viernes) en noviembre 2026.
+Se encarga de asegurar que el Congreso funcione de manera fluida y ordenada durante su ejecución presencial. Se encarga de los aspectos prácticos y operativos necesarios para que las actividades académicas y sociales se desarrollen en los tiempos, espacios y condiciones previstas, ofreciendo soporte a ponentes, asistentes, invitados y público general antes, durante y después del evento.
 
 *Haga clic en las fotos para ver sus detalles y contribuciones.*
 ```{r}
@@ -197,7 +197,7 @@ tags$div(class = "row", # Create a row for 3 team-member cards
 
 # Comité Financiero
 
-Es responsable de definir el desarrollo a medio y largo plazo de la serie de conferencias y de garantizar que esta mantenga un alto nivel organizativo. El congreso suele tener una duración de una semana (de lunes a viernes) en noviembre 2026.
+Está a cargo de la planeación financiera del Congreso y de contribuir a su sostenibilidad. Apoya la búsqueda y gestión de recursos, patrocinios y apoyos, y orienta la asignación de gastos para que el VICCM pueda desarrollarse con solidez y dentro de las posibilidades presupuestales.
 
 *Haga clic en las fotos para ver sus detalles y contribuciones.*
 ```{r}
@@ -234,3 +234,9 @@ tags$div(class = "row", # Create a row for 3 team-member cards
 # ), 
 )
 ```
+
+# Comité de Diversidad e Integración Científica
+
+Está a cargo de promover un Congreso diverso, incluyente y representativo. Propone orientaciones para favorecer la participación amplia de regiones, instituciones y diferentes trayectorias académicas, y contribuye a que el VICCM sea un espacio intergeneracional e intercultural respetuoso e integrador para la comunidad mastozoológica.
+
+*Haga clic en las fotos para ver sus detalles y contribuciones.*

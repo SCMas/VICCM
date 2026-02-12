@@ -35,15 +35,15 @@ tags$div(class = "row", style = "display: flex;",
          
 create_button(
   icon = "fab fa-facebook fa-xl",
-  url = "https://www.facebook.com/luisa.martineztkd/photos"
+  url = "https://web.facebook.com/mauricio.vela.3150"
 ),
-# create_button(
-#   icon = "fab fa-linkedin fa-xl",
-#   url = "https://www.linkedin.com/in/hugo-mantilla-meluk-46b405223/?originalSubdomain=co"
-# ),
+ create_button(
+   icon = "fab fa-linkedin fa-xl",
+   url = "https://www.linkedin.com/in/i-mauricio-vela-vargas-b62a9448/"
+),
 create_button(
   icon = "fab fa-instagram fa-xl",
-  url = "https://www.instagram.com/Luisamartineztkd"
+  url = "https://www.instagram.com/imauriciovela/"
 )
 )
 ```

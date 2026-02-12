@@ -44,8 +44,54 @@ Cuenta con espacios multifuncionales, entre ellos el Auditorio Monseñor Ángel 
 
 Ubicado en el kilómetro 20 vía Morelia, es el espacio destinado para la investigación en Ciencias Biológicas y Ciencias Agrícolas. Este centro de 371 hectáreas se encuentra rodeado por un entorno natural que fomenta la investigación de campo, especialmente en temas de flora y fauna. Aquí se llevan a cabo estudios enfocados en la sostenibilidad, la conservación y el manejo ambiental de los agroecosistemas y sistemas productivos de la región. 
 
-[Ver ubicación](https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d19630.64720078128!2d-75.681113!3d1.5011813!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e244a59e462cc33%3A0xcdb4186be0d76ffd!2sMacagual%20UNIAMAZONIA!5e1!3m2!1ses!2sco!4v1770321976558!5m2!1ses!2sco){target="_blank"}
+[Ver ubicación](https://maps.app.goo.gl/Kj4hgGezeJTok7weA){target="_blank"}
 
 :::
 
+***
 
+:::{.column-page layout="[35,65]" style="margin-right: auto; margin-left: auto;"}
+
+<a href="https://www.youtube.com/watch?v=d9K8lsCGvT4">
+![Campus Florencia – Juan XXIII](images/foto/Campus_porvenir.png){style="width:95%;margin-left: auto;margin-right: auto;"}
+
+</a>
+
+
+# Campus Florencia – Juan XXIII
+
+Este espacio heterogéneo ocupa un área de 6,2 hectáreas en el corazón de Florencia. Aquí se encuentran el nuevo edificio Yapurá (este vocablo que deriva del tupí iupará es utilizado en la Amazonia para referirse a un barrio de Florencia, al río Caquetá, al árbol de batí (Erisma japura) y el alimento que deriva de sus semillas, y a la especie Potos flavus),  el Museo de Historia Natural-UAM, el Jardín Botánico y el Herbario HUAZ, que cuentan con diversas colecciones biológicas.
+
+:::
+
+***
+
+:::{.column-page layout="[35,65]" style="margin-left: auto; margin-right: auto;"}
+
+<a href="https://www.youtube.com/watch?v=d9K8lsCGvT4">
+![Centro Experimental Santo Domingo](images/foto/Campus_porvenir.png){style="width:95%;margin-left: auto;margin-right: auto;"}
+
+</a>
+
+
+# Centro Experimental Santo Domingo
+
+Ubicado en el km 6 vía Morelia, en él se enfocan esfuerzos y recursos para afrontar las necesidades del sector agropecuario y agroindustrial.  El Centro Experimental cuenta con 10 unidades de apoyo académicas, entre ellas, el Hogar de Paso en Fauna Silvestre (HPFS), el Laboratorio de Anatomía Animal, las Clínicas de Pequeños y Grandes Animales, cinco Plantas Agroindustriales y áreas de producción avícola y piscícola.  
+
+:::
+
+***
+
+:::{.column-page layout="[35,65]" style="margin-left: auto; margin-right: auto;"}
+
+<a href="https://www.youtube.com/watch?v=d9K8lsCGvT4">
+![ Centro Experimental Agroecológico Balcanes](images/foto/Campus_porvenir.png){style="width:95%;margin-left: auto;margin-right: auto;"}
+
+</a>
+
+
+# Centro Experimental Agroecológico Balcanes
+
+El centro experimental se encuentra ubicado a 30 km del casco urbano de Florencia, en el corregimiento de Venecia, vereda Balcanes, y tiene un área de 68 hectáreas. En él se enfocan esfuerzos para afrontar las necesidades y los cambios que enfrentan los agroecosistemas y ecosistemas naturales de la Amazonía, aportando conocimiento para la conservación, el uso sostenible de la biodiversidad y los servicios ecosistémicos.  
+
+:::

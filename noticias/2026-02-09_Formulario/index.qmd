@@ -1,7 +1,7 @@
 ---
 title: "Enviar Propuesta Simposio"
 description: |
-  Llene su formulario para enviar propuestas de simposios, talleres, mesas redondas, cursos y otras actividades académicas del VICCM.
+  Diligencie su formulario para enviar propuestas de simposios, talleres, mesas redondas, cursos y otras actividades académicas del VICCM.
 author:
   - name: "Catalina Concha-Osbahr"
   - name: "Javier García-Villalba"
@@ -77,11 +77,11 @@ library(htmltools)
 ## VICCM 2026 - Invitación 
 
 :::
-
-
-![](images/registro-en-linea.png)
-
 ## [Envíe su propuesta acá](https://forms.gle/SnDdYQBN8E3tJHaJ6){target="_blank"}
+<a href="https://forms.gle/SnDdYQBN8E3tJHaJ6">
+![](images/Formulario_Google.jpg)
+
+
 
 
 
