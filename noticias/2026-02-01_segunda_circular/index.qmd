@@ -82,7 +82,7 @@ Las personas interesadas en organizar alguna de estas actividades deberán envia
 
 Cada simposio tendrá al menos una sesión con una duración aproximada de 2 horas y 30 minutos, y deberá incluir:
 -	Una presentación de apertura o introducción al simposio.
--	Entre seis y ocho ponencias orales, con una duración de 15 minutos cada una, incluyendo espacio para preguntas.
+-	Entre cinco y ocho ponencias orales, con una duración de 15 minutos cada una, incluyendo espacio para preguntas.
 -	Un espacio final de 15 a 30 minutos de discusión abierta, orientado a:
 1.	Identificar retos y oportunidades del área temática.
 2.	Explorar posibilidades de colaboración.
