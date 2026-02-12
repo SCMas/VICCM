@@ -71,19 +71,19 @@ library(htmltools)
 
 :::
 
-El Comité Organizador del VI Congreso Colombiano de Mastozoología invita a la comunidad académica, investigativa y de la sociedad civil a presentar propuestas para la realización de simposios, talleres, mesas redondas, cursos y otras actividades académicas, que harán parte de la programación oficial del Congreso.
+El Comité Organizador del VI Congreso Colombiano de Mastozoología invita a la comunidad académica, investigativa y de la sociedad civil a presentar propuestas para la realización de simposios, talleres, mesas redondas, cursos y otras actividades académicas, que harán parte de la programación oficial del Congreso.  
 
-El evento se llevará a cabo del 2 al 6 de noviembre de 2026, en la ciudad de Florencia, Caquetá, y tiene como propósito fortalecer el intercambio de conocimientos, experiencias y enfoques relacionados con la mastozoología, así como promover espacios de reflexión, articulación y construcción colectiva en torno al estudio y la conservación de los mamíferos en Colombia.
-Las personas interesadas en organizar alguna de estas actividades deberán enviar su propuesta, antes del 01 de abril de 2026, al correo electrónico: cientifico.viccm2026@gmail.com 
-Los proponentes serán notificados sobre la decisión del Comité Organizador antes del 13 de abril de 2026.
+El evento se llevará a cabo del 2 al 6 de noviembre de 2026, en la ciudad de Florencia, Caquetá, y tiene como propósito fortalecer el intercambio de conocimientos, experiencias y enfoques relacionados con la mastozoología, así como promover espacios de reflexión, articulación y construcción colectiva en torno al estudio y la conservación de los mamíferos en Colombia.  
+
+Las personas interesadas en organizar alguna de estas actividades deberán enviar su propuesta, antes del 01 de abril de 2026, 👉[en éste enlace](https://mamiferoscolombia.org/VICCM/noticias/2026-02-09_Formulario/)👈. Los proponentes serán notificados sobre la decisión del Comité Organizador antes del 13 de abril de 2026.  
 
 
 ## Propuestas de Simposios, Cursos y Talleres
 
 Cada simposio tendrá al menos una sesión con una duración aproximada de 2 horas y 30 minutos, y deberá incluir:
--	Una presentación de apertura o introducción al simposio (30 minutos).
+-	Una presentación de apertura o introducción al simposio.
 -	Entre seis y ocho ponencias orales, con una duración de 15 minutos cada una, incluyendo espacio para preguntas.
--	Un espacio final de 30 minutos de discusión abierta, orientado a:
+-	Un espacio final de 15 a 30 minutos de discusión abierta, orientado a:
 1.	Identificar retos y oportunidades del área temática.
 2.	Explorar posibilidades de colaboración.
 3.	Proponer estrategias futuras para el avance del campo.
