@@ -51,8 +51,8 @@ Ubicado en el kilómetro 20 vía Morelia, es el espacio destinado para la invest
 
 :::{.column-page layout="[1,1]" style="float:right;"}
 
-<a href="https://www.youtube.com/watch?v=d9K8lsCGvT4">
-![Campus Florencia Porvenir](images/foto/Campus_porvenir.png){style="width:73%;"}
+<>
+![Campus Florencia - Juan XXIII](images/foto/Campus_Juan23.png){style="width:73%;"}
 </a>
 
 
@@ -66,8 +66,8 @@ Este espacio ocupa un área de 6,2 hectáreas en el corazón de Florencia. Aquí
 
 :::{.column-page layout="[1,1]" style="float:left;"}
 
-<a href="https://www.youtube.com/watch?v=Ay0zbp6hXjA&t=90s"> 
-![Centro de Investigaciones Amazónicas Macagual](images/foto/Campus_macagual.png){style="width:73%;"}
+<> 
+![Centro Experimental Santo Domingo](images/foto/Campus_SantoDomingo.png){style="width:73%;"}
 </a>
 
 
@@ -81,8 +81,8 @@ Ubicado en el km 6 vía Morelia, en él se enfocan esfuerzos y recursos para afr
 
 :::{.column-page layout="[1,1]" style="float:left;"}
 
-<a href="https://www.youtube.com/watch?v=d9K8lsCGvT4">
-![ Centro Experimental Agroecológico Balcanes](images/foto/Campus_porvenir.png){style="width:73%;"}
+<>
+![ Centro Experimental Agroecológico Balcanes](images/foto/Campus_Balcanes.png){style="width:73%;"}
 </a>
 
 
