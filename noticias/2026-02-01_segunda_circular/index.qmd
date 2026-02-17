@@ -67,29 +67,26 @@ library(htmltools)
 
 :::{.callout-tip}
 
-## VICCM 2026 - Invitación 
+## VICCM 2026 - Segunda Circular 
 
 :::
 
 El Comité Organizador del VI Congreso Colombiano de Mastozoología invita a la comunidad académica, investigativa y de la sociedad civil a presentar propuestas para la realización de simposios, talleres, mesas redondas, cursos y otras actividades académicas, que harán parte de la programación oficial del Congreso.  
 
-El evento se llevará a cabo del 2 al 6 de noviembre de 2026, en la ciudad de Florencia, Caquetá, y tiene como propósito fortalecer el intercambio de conocimientos, experiencias y enfoques relacionados con la mastozoología, así como promover espacios de reflexión, articulación y construcción colectiva en torno al estudio y la conservación de los mamíferos en Colombia.  
+El evento se llevará a cabo del 02 al 06 de noviembre de 2026, en la ciudad de Florencia, Caquetá, y tiene como propósito fortalecer el intercambio de conocimientos, experiencias y enfoques relacionados con la mastozoología, así como promover espacios de reflexión, articulación y construcción colectiva en torno al estudio y la conservación de los mamíferos en Colombia.
 
-Las personas interesadas en organizar alguna de estas actividades deberán enviar su propuesta, antes del 01 de abril de 2026, 👉[en éste enlace](https://mamiferoscolombia.org/VICCM/noticias/2026-02-09_Formulario/)👈. Los proponentes serán notificados sobre la decisión del Comité Organizador antes del 13 de abril de 2026.  
+Las personas interesadas en organizar alguna de estas actividades deberán someter su propuesta, antes del 05 de abril de 2026, 👉[en éste enlace](https://forms.gle/SnDdYQBN8E3tJHaJ6){target="_blank"}👈. Los proponentes serán notificados sobre la decisión del Comité Organizador antes del 17 de abril de 2026.  
 
 
 ## Propuestas de Simposios, Cursos y Talleres
 
-Cada simposio tendrá al menos una sesión con una duración aproximada de 2 horas y 30 minutos, y deberá incluir:
--	Una presentación de apertura o introducción al simposio.
--	Entre cinco y ocho ponencias orales, con una duración de 15 minutos cada una, incluyendo espacio para preguntas.
--	Un espacio final de 15 a 30 minutos de discusión abierta, orientado a:
-1.	Identificar retos y oportunidades del área temática.
-2.	Explorar posibilidades de colaboración.
-3.	Proponer estrategias futuras para el avance del campo.
-4.	Presentar conclusiones generales del simposio.
+Simposios: Son sesiones de temáticas organizadas alrededor de un eje central (pregunta, problema o área de investigación), con el propósito de sintetizar el estado del conocimiento, debatir retos y oportunidades, y proponer agendas o estrategias futuras para el campo científico. 
+
+Cursos y Talleres: Son espacios formativos orientados a la transferencia de conocimientos y habilidades en mastozoología, biodiversidad, conservación, manejo de datos, herramientas de campo, análisis, comunicación científica o temas afines que permite la apropiación social del conocimiento.
 
 Se recibirán también propuestas de actividades innovadoras, diferentes a los formatos tradicionales, siempre que mantengan coherencia académica y aporten al cumplimiento de los objetivos del Congreso.
+
+Cada modalidad tendrá al menos una sesión con una duración mínima aproximada de 2 horas y 30 minutos
 
 ### Enfoque y alcance de las propuestas
 
@@ -118,22 +115,37 @@ Las propuestas serán evaluadas por el Comité Científico del Congreso, teniend
 
 Los simposios y actividades que hayan tenido versiones en congresos anteriores podrán contar con una preaprobación, aunque se recomienda ampliar la participación a nuevos coorganizadores y ponentes. En estos casos, los responsables deberán responder el correo de consulta que les será enviado y remitir la propuesta dentro de las fechas establecidas.
 
+##Criterios de evaluación
+
+Las propuestas serán evaluadas por el Comité Científico del Congreso, teniendo en cuenta, entre otros, los siguientes criterios:
+
+-	Mérito y pertinencia científica.
+-	Trayectoria profesional y experiencia de los participantes.
+-	Participación de instituciones, estudiantes y actores de la sociedad civil.
+-	Enfoque interdisciplinario.
+-	Equidad de género y diversidad.
+-	Impacto potencial (científico, social o aplicado).
+-	Viabilidad técnica y logística.
+-	Posibilidad de gestión o consecución de financiación.
+
+Los simposios y actividades que hayan tenido versiones en congresos anteriores podrán contar con una preaprobación, aunque se recomienda ampliar la participación a nuevos co’organizadores y ponentes. En estos casos, los responsables deberán responder el correo de consulta que les será enviado y remitir la propuesta dentro de las fechas establecidas.
+
 ## Requisitos de la propuesta
 Las propuestas deberán incluir la siguiente información:
 
 1.	Título del evento (máximo 10 palabras).
-2.	Modalidad (simposio, taller, mesa redonda, curso).
-3.	Nombre, filiación institucional y correo electrónico del comité organizador (mínimo dos personas, preferiblemente de instituciones diferentes).
+2.	Modalidad (simposio, taller, mesa redonda, curso, etc.).
+3.	Nombre, afiliación institucional y correo electrónico del comité organizador (mínimo dos personas, preferiblemente de instituciones diferentes).
 4.	Objetivo y justificación de la actividad (hasta 300 palabras).
-5.	Listado de participantes e invitados, indicando si su participación está confirmada o en proceso.
-6.	Descripción de la estrategia para garantizar la participación equitativa, diversa e incluyente.
-7.	Duración (número de sesiones y horas requeridas).
-8.	Requerimientos logísticos.
-9.	Fuentes de financiación, indicando si ya se cuenta con apoyo o si se encuentra en proceso de gestión.
-
-
+5.	Metodología (Para Talleres y Cursos definir modalidad: Teórica/ Practica/ Mixta).
+6.	Listado de participantes e invitados, indicando si su participación está confirmada o en proceso.
+7.	Descripción de la estrategia para garantizar la participación equitativa, diversa e incluyente.
+8.	Duración (número de sesiones y horas requeridas).
+9.	Requerimientos logísticos.
+10.	Fuentes de financiación, indicando si ya se cuenta con apoyo o si se encuentra en proceso de gestión.
 
 ## [Envíe su propuesta acá](https://forms.gle/SnDdYQBN8E3tJHaJ6){target="_blank"}
+## [Decargue la circular](){target="_blank"}
 
 
 

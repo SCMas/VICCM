@@ -149,7 +149,7 @@ tags$div(class = "row", # Create a row for 3 team-member cards
 
 # Comité de Comunicaciones
 
-Es responsable de definir el desarrollo a medio y largo plazo de la serie de conferencias y de garantizar que esta mantenga un alto nivel organizativo. El congreso suele tener una duración de una semana (de lunes a viernes) en noviembre 2026.
+Lidera la divulgación y del posicionamiento del Congreso a nivel local, nacional e internacional, orientado a la comunidad mastozoológica y científica, estudiantes, socios, aliados institucionales y comunidad interesada. Define, planifica y acompaña la comunicación oficial del VICCM mediante el envío y publicación oportuna de noticias, convocatorias y novedades relevantes; a su vez, gestiona la producción de piezas y contenidos audiovisuales que promuevan la participación y visibilicen el evento.
 
 *Haga clic en las fotos para ver sus detalles y contribuciones.*
 ```{r}

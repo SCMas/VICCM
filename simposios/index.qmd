@@ -1,6 +1,6 @@
 ---
 title: "Simposios"
-subtitle: "[Llamado a Presentar Propuestas de Simposios](https://www.mamiferoscolombia.org/VICCM/noticias/2026-02-01_invitacion)"
+subtitle: "[Llamado a Presentar Propuestas de Simposios](https://www.mamiferoscolombia.org/VICCM/noticias/2026-02-01_segunda_circular)"
 listing:
   sort-ui: true
   sort: 
