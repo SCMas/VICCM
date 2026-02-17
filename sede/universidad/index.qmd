@@ -51,7 +51,7 @@ Ubicado en el kilómetro 20 vía Morelia, es el espacio destinado para la invest
 
 :::{.column-page layout="[1,1]" style="float:right;"}
 
-<>
+
 ![Campus Florencia - Juan XXIII](images/foto/Campus_Juan23.png){style="width:73%;"}
 </a>
 
@@ -66,7 +66,7 @@ Este espacio ocupa un área de 6,2 hectáreas en el corazón de Florencia. Aquí
 
 :::{.column-page layout="[1,1]" style="float:left;"}
 
-<> 
+
 ![Centro Experimental Santo Domingo](images/foto/Campus_SantoDomingo.png){style="width:73%;"}
 </a>
 
@@ -81,7 +81,7 @@ Ubicado en el km 6 vía Morelia, en él se enfocan esfuerzos y recursos para afr
 
 :::{.column-page layout="[1,1]" style="float:left;"}
 
-<>
+
 ![ Centro Experimental Agroecológico Balcanes](images/foto/Campus_Balcanes.png){style="width:73%;"}
 </a>
 
