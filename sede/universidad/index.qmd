@@ -1,6 +1,6 @@
 ---
 title: "Universidad de la Amazonia"
-subtitle: "Información sobre la sede del congreso"
+subtitle: "Sede del congreso"
 title-block-banner: "#E06E53"
 title-block-banner-color: body
 toc: false
