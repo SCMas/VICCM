@@ -1,0 +1,82 @@
+---
+title: "El Congreso Colombiano de Mastozoología y su relevancia en el contexto Amazónico"
+description: |
+  Javier García-Villalba nos habla sobre el contexto Amazonico y la sede del próximo congreso.
+author:
+  - name: "Javier García-Villalba"
+#  - name: "Dax Kellie"
+date: "2026-03-30"
+title-block-banner: "#B8573E"
+toc: true
+toc-location: left
+toc-depth: 2
+categories:
+  - Presentación
+  - Eventos
+  - Sede
+image: video.png
+freeze: true
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| cache: true
+#| include: false
+library(htmltools)
+```
+
+<!-- remove metadata section -->
+
+```{=html}
+<style>
+  #title-block-header.quarto-title-block.default .quarto-title-meta {
+      display: none;
+  }
+</style>
+```
+
+<!-- Author card -->
+
+::::::: author-card
+::: author-card-text
+#### Author
+
+
+[Javier García-Villalba](https://mamiferoscolombia.org/VICCM/about/Javier_Garcia/index.html)
+
+#### Date
+
+30 Marzo 2026
+:::
+
+::::: {.row-b layout-ncol="3" style="margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: auto;"}
+::: {.author-card-image style="width: auto; height: 120px; margin-right: auto !important;"}
+<img src="images/Javier_Garcia.jpg" style="object-fit: cover; border-radius: 50% !important; width: 200px;"/></img>
+:::
+
+<!-- ::: {.author-card-image style="width: auto; height: 120px; margin-right: auto;"} -->
+<!-- <img src="https://raw.githubusercontent.com/AtlasOfLivingAustralia/ala-labs/main/images/people/dax.jpg" style="object-fit: cover; border-radius: 50% !important; width: 140px;"/></img> -->
+<!-- ::: -->
+:::::
+:::::::
+
+<!------------------------ Post starts here ------------------------>
+
+:::{.callout-tip}
+
+## VICCM 2026 - Contexto y Sede 
+
+:::
+## Video de Charlas Mastozoológicas 
+
+
+
+{{< video https://www.youtube.com/embed/tedPOrBqFbk >}}
+
+
+Javier nos cuenta sobre el contexto Amazónico del congreso, nos habla de la sede y los eventos que podremos esperar. 
+
+
+
+

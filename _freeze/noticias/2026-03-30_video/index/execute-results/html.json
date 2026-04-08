@@ -1,0 +1,15 @@
+{
+  "hash": "370efd95efc3117b36360c28f91ac97e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"El Congreso Colombiano de Mastozoología y su relevancia en el contexto Amazónico\"\ndescription: |\n  Javier García-Villalba nos habla sobre el contexto Amazonico y la sede del próximo congreso.\nauthor:\n  - name: \"Javier García-Villalba\"\n#  - name: \"Dax Kellie\"\ndate: \"2026-03-30\"\ntitle-block-banner: \"#B8573E\"\ntoc: true\ntoc-location: left\ntoc-depth: 2\ncategories:\n  - Presentación\n  - Eventos\n  - Sede\nimage: video.png\nfreeze: true\neditor_options: \n  chunk_output_type: console\n---\n\n\n\n<!-- remove metadata section -->\n\n```{=html}\n<style>\n  #title-block-header.quarto-title-block.default .quarto-title-meta {\n      display: none;\n  }\n</style>\n```\n\n<!-- Author card -->\n\n::::::: author-card\n::: author-card-text\n#### Author\n\n\n[Javier García-Villalba](https://mamiferoscolombia.org/VICCM/about/Javier_Garcia/index.html)\n\n#### Date\n\n30 Marzo 2026\n:::\n\n::::: {.row-b layout-ncol=\"3\" style=\"margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: auto;\"}\n::: {.author-card-image style=\"width: auto; height: 120px; margin-right: auto !important;\"}\n<img src=\"images/Javier_Garcia.jpg\" style=\"object-fit: cover; border-radius: 50% !important; width: 200px;\"/></img>\n:::\n\n<!-- ::: {.author-card-image style=\"width: auto; height: 120px; margin-right: auto;\"} -->\n<!-- <img src=\"https://raw.githubusercontent.com/AtlasOfLivingAustralia/ala-labs/main/images/people/dax.jpg\" style=\"object-fit: cover; border-radius: 50% !important; width: 140px;\"/></img> -->\n<!-- ::: -->\n:::::\n:::::::\n\n<!------------------------ Post starts here ------------------------>\n\n:::{.callout-tip}\n\n## VICCM 2026 - Contexto y Sede \n\n:::\n## Video de Charlas Mastozoológicas \n\n\n\n{{< video https://www.youtube.com/embed/tedPOrBqFbk >}}\n\n\nJavier nos cuenta sobre el contexto Amazónico del congreso, nos habla de la sede y los eventos que podremos esperar. \n\n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
